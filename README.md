@@ -1,2 +1,2 @@
 # C-programming-Basics
-C programming
+C is a powerful general purpose programming language
